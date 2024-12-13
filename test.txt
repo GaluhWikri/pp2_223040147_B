@@ -1,0 +1,18 @@
+
+membership
+
+javac -cp "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Membership\src;C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Membership\libs\mysql-connector-j-9.1.0.jar" "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Membership\src\view\main\MainFrame.java"
+
+java -cp "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Membership\src;C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Membership\libs\mysql-connector-j-9.1.0.jar" "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Membership\src\view\main\MainFrame.java"
+
+biodata
+
+javac -cp "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Biodata\src;C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Biodata\libs\mysql-connector-j-9.1.0.jar" "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Biodata\src\view\BiodataView.java"
+
+java -cp "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Biodata\src;C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Biodata\libs\mysql-connector-j-9.1.0.jar" "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 7\Biodata\src\view\BiodataView.java"
+
+
+
+javac -cp "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 8\Membership ORM\src;C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 8\Membership ORM\src\main\Main.java"
+
+javac -cp "C:\Kampus\SMT-5\Praktikum Pemrograman 2\Tugas 8\Membership ORM\src;

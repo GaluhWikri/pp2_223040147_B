@@ -5,10 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class MySqlConnection {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/pp2_membership"; // Sesuaikan dengan nama database
-    private static final String DB_USER = "root"; // Sesuaikan dengan username MySQL kamu
-    private static final String DB_PASS = ""; // Sesuaikan dengan password MySQL kamu
-
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/pp2_membership"; 
+    private static final String DB_USER = "root"; 
+    private static final String DB_PASS = "";  
     private static Connection connection;
 
     public static Connection getConnection() {
